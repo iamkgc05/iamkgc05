@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular Js, Vue.js, Node.js**
 
-- 👨‍💻 All of my projects are available at [My CV](https://ceokinda.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Resume](https://ceokinda.netlify.app/)
 
 - 💬 Ask me about **How I carried out my projects**
 
