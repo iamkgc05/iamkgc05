@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkgc05&label=Profile%20views&color=0e75b6&style=flat" alt="iamkgc05" /> </p>
 
-- 🌱 I’m currently learning **Angular Js, Vue.js, Node.js**
+- 🌱 I’m currently learning **Power BI, Python, Vue.js, Java**
 
 - 👨‍💻 All of my projects are available at [My Resume](https://ceokinda.netlify.app/)
 
