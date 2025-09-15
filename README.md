@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ceokinda10@gmail.com**
 
-- ⚡ Fun fact **I Think I am a better frontend dev than NBA2K player ...**
+- ⚡ Fun fact **I Think I am a better Data Analyst than NBA2K player ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
